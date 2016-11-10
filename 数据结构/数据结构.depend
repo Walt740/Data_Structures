@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1473664415 source:c:\users\walt740\documents\数据结构\数据结构\main.c
+	<stdio.h>
+	<malloc.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+

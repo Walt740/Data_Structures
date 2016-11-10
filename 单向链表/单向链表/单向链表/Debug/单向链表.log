@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\walt740\documents\数据结构\单向链表\单向链表\单向链表\main.c(168): warning C4033: “Insert”必须返回值
+c:\users\walt740\documents\数据结构\单向链表\单向链表\单向链表\main.c(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\walt740\documents\数据结构\单向链表\单向链表\单向链表\main.c(175): warning C4715: “Insert”: 不是所有的控件路径都返回值
+  单向链表.vcxproj -> C:\Users\Walt740\Documents\数据结构\单向链表\单向链表\单向链表\Debug\单向链表.exe
+  单向链表.vcxproj -> C:\Users\Walt740\Documents\数据结构\单向链表\单向链表\单向链表\Debug\单向链表.pdb (Full PDB)
